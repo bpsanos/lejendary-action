@@ -16,6 +16,7 @@ body {
 #container {
     min-height: calc(100vh - 300px);
     
+    
 
 }
 
@@ -121,7 +122,8 @@ footer {
 
 #content {
 	float: left;
-	width: 900px;
+  width: 900px;
+
 }
 
 /* Contact 
